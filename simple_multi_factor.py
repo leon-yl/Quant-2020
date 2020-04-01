@@ -1,7 +1,3 @@
-# 克隆自聚宽文章：https://www.joinquant.com/post/1399
-# 标题：【量化课堂】多因子策略入门
-# 作者：JoinQuant量化课堂
-
 # 导入函数库
 from jqdata import *
 
